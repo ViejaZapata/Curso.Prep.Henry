@@ -4,7 +4,7 @@
 const saludo = "hola, cómo estas?";
 
 // Crea una variable numérica, puede ser cualquier número:
-const 18 = mayor;
+const mayor = 18;
 
 // Crea una variable booleana:
 const nuevoBool = null;
