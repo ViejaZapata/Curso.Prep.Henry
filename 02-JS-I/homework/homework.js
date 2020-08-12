@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = 'saludo';
+const nuevaString = "saludo";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 18;
@@ -102,7 +102,8 @@ return nombre + " " + apellido;
 }
 
 function obtenerSaludo(nombre) {
-return "hola" + nombre + "!"; 
+var saludo = "Hola "+ nombre + "!";
+return saludo;
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
