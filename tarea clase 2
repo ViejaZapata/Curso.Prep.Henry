@@ -1,0 +1,12 @@
+Lenguaje de programación: es la herramienta con la que "le hablo" (doy instrucciones a la computadora). Puede ser estructurado (tipado) o flexible (no tipado).
+
+Java Script es un lenguaje no tipado. 
+
+Variables: son espacios a los que le asigno valor y donde guardo cosas (como poner algo en una caja).  var  firstname Victor...en el ejemplo estoy guardando mi nombre en la variable firstname, 
+a la que previamente asigné con var.
+Una vez que declaré la variable, luego la puedo usar para hacer otras cosas. Las variables pueden ser pisadas o reemplazadas, salvo que las declare como const.
+
+String: en JS cuento con diferentes tipos de datos. Uno de ellos es la cadena (string, en inglés) de caracteres. Va siempre entre comillas. Es como un hilo de caracteres. 
+Los otros datos que manejo en JS pueden ser numéricos, booleanos, null y undefined. 
+
+Booleanos: son los que SIEMPRE devuelven un verdadero o falso. 
